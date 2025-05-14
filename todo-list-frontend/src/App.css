@@ -1,0 +1,65 @@
+/* App.css */
+body {
+  background-image: url('https://wallpapers.com/images/featured/4k-background-fd313fxzl511betu.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.todo-container {
+  background-color: rgba(236, 240, 241, 0.9); /* Light background */
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.bg-primary {
+  background-color: #2c3e50 !important; /* Dark Blue */
+}
+
+.text-primary {
+  color: #2c3e50 !important;
+}
+
+.text-accent {
+  color: #27ae60 !important; /* Green */
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+}
+
+.todo-card {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+}
+
+.btn-dark {
+  background-color: #2c3e50;
+  border-color: #2c3e50;
+}
+
+.btn-accent {
+  background-color: #27ae60;
+  border-color: #27ae60;
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #bdc3c7;
+  border-color: #bdc3c7;
+  color: #2c3e50;
+}
+
+.alert-success {
+  background-color: #27ae60;
+  color: white;
+}
+
+.alert-danger {
+  background-color: #c0392b;
+  color: white;
+}
