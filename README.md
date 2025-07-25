@@ -7,7 +7,7 @@ A full-stack todo list application built with the MERN stack (MongoDB, Express.j
 - ✨ Create, Read, Update, and Delete (CRUD) operations for todos
 - 🎯 Mark todos as complete/incomplete
 - 📱 Responsive design for all devices
-- 🔄 Real-time updates
+- 🔄 Real-time updates 
 - 🎨 Modern and clean user interface 
 - 🔒 Secure API endpoints
 
