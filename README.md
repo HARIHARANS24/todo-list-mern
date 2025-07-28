@@ -8,7 +8,7 @@ A full-stack todo list application built with the MERN stack (MongoDB, Express.j
 - 🎯 Mark todos as complete/incomplete
 - 📱 Responsive design for all devices
 - 🔄 Real-time updates 
-- 🎨 Modern and clean user interface 
+- 🎨 Modern and clean user interface  
 - 🔒 Secure API endpoints 
  
 ## 🛠️ Tech Stack  
