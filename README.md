@@ -11,7 +11,7 @@ A full-stack todo list application built with the MERN stack (MongoDB, Express.j
 - 🎨 Modern and clean user interface   
 - 🔒 Secure API endpoints  
    
-## 🛠️ Tech Stack    
+## 🛠️ Tech Stack     
      
 - **Frontend:**      
   - React.js
