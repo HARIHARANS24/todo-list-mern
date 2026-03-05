@@ -27,37 +27,31 @@ A full-stack todo list application built with the MERN stack (MongoDB, Express.j
 ## 📁 Project Structure
 
 ```
-📦 todo-list-mern
- ┣ 📂 todo-list-frontend
- ┃ ┣ 📂 public
- ┃ ┃ ┣ 📜 index.html          # Main HTML file
- ┃ ┃ ┣ 📜 robots.txt          # Search engine configuration
- ┃ ┃ ┣ 📜 manifest.json       # Web app manifest
- ┃ ┃ ┣ 📜 logo192.png         # Small app logo
- ┃ ┃ ┣ 📜 logo512.png         # Large app logo
- ┃ ┃ ┗ 📜 favicon.ico         # Browser tab icon
- ┃ ┃
- ┃ ┣ 📂 src
- ┃ ┃ ┣ 📜 Todo.js             # Main todo component
- ┃ ┃ ┣ 📜 App.js              # Main application component
- ┃ ┃ ┣ 📜 App.css             # Main application styles
- ┃ ┃ ┣ 📜 index.js            # Application entry point
- ┃ ┃ ┣ 📜 index.css           # Global styles
- ┃ ┃ ┣ 📜 logo.svg            # React logo
- ┃ ┃ ┣ 📜 setupTests.js       # Test configuration
- ┃ ┃ ┣ 📜 reportWebVitals.js  # Performance monitoring
- ┃ ┃ ┗ 📜 App.test.js         # Application tests
- ┃ ┃
- ┃ ┣ 📜 package.json          # Frontend dependencies and scripts
- ┃ ┣ 📜 package-lock.json     # Dependency lock file
- ┃ ┗ 📜 .gitignore            # Git ignore rules
- ┃
- ┣ 📂 todo-list-backend
- ┃ ┣ 📜 server.js             # Main server file
- ┃ ┣ 📜 package.json          # Backend dependencies and scripts
- ┃ ┗ 📜 package-lock.json     # Dependency lock file
- ┃
- ┗ 📜 LICENSE.txt             # MIT License file
+Directory structure:
+└── hariharans24-todo-list-mern/
+    ├── README.md
+    ├── LICENSE.txt
+    ├── todo-list-backend/
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   └── server.js
+    └── todo-list-frontend/
+        ├── README.md
+        ├── package-lock.json
+        ├── package.json
+        ├── public/
+        │   ├── index.html
+        │   ├── manifest.json
+        │   └── robots.txt
+        └── src/
+            ├── App.css
+            ├── App.js
+            ├── App.test.js
+            ├── index.css
+            ├── index.js
+            ├── reportWebVitals.js
+            ├── setupTests.js
+            └── Todo.js
 ```
 
 ## 🚀 Getting Started
